@@ -164,7 +164,7 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 2.9960778, g: 1.1890714, b: 0, a: 1}
     - _EmissionColor_01: {r: 683.5601, g: 99.17264, b: 0, a: 0}
-    - _MagicLineColor: {r: 3.9999995, g: 3.099376, b: 0, a: 0}
+    - _MagicLineColor: {r: 1.8443023, g: 1.4290468, b: 0, a: 0}
     - _MainColor: {r: 0.2264151, g: 0.2264151, b: 0.2264151, a: 1}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
   m_BuildTextureStacks: []
