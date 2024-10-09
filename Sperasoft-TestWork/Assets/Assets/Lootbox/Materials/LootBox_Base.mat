@@ -87,6 +87,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleReflectedCubemap_f7f9734bb2fe430ca5c4dfc1843b9c97_Cube_1_Cubemap:
+        m_Texture: {fileID: 8900000, guid: 65322f4a0e20ac34a8fb7973f7ae24f4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
